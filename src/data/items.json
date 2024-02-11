@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "imgs/book.png"
+  },
+  {
+    "id": 2,
+    "name": "Pen",
+    "price": 2.99,
+    "imgUrl": "imgs/pen.png"
+  },
+  {
+    "id": 3,
+    "name": "Pencil",
+    "price": 1.99,
+    "imgUrl": "imgs/pencil.png"
+  },
+  {
+    "id": 4,
+    "name": "Notebook",
+    "price": 5.99,
+    "imgUrl": "imgs/notebook.png"
+  },
+  {
+    "id": 5,
+    "name": "Eraser",
+    "price": 0.99,
+    "imgUrl": "imgs/eraser.png"
+  },
+  {
+    "id": 6,
+    "name": "Ruler",
+    "price": 3.99,
+    "imgUrl": "imgs/ruler.png"
+  },
+  {
+    "id": 7,
+    "name": "Calculator",
+    "price": 14.99,
+    "imgUrl": "imgs/calculator.png"
+  },
+  {
+    "id": 8,
+    "name": "Paper",
+    "price": 7.99,
+    "imgUrl": "imgs/paper.png"
+  },
+  {
+    "id": 9,
+    "name": "Stapler",
+    "price": 4.99,
+    "imgUrl": "imgs/stapler.png"
+  },
+  {
+    "id": 10,
+    "name": "Scissors",
+    "price": 3.99,
+    "imgUrl": "imgs/scissors.png"
+  },
+  {
+    "id": 11,
+    "name": "Highlighter",
+    "price": 2.99,
+    "imgUrl": "imgs/highlighter.png"
+  },
+  {
+    "id": 12,
+    "name": "Glue",
+    "price": 1.99,
+    "imgUrl": "imgs/glue.png"
+  }
+]
